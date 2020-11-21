@@ -1,0 +1,36 @@
+.comment-texts {
+    font-size:1.8vh;
+    margin-top: 3.5px;
+    color:#558ef8;
+  }
+
+  .comment-content2 {
+    display: flex;
+    align-items: center;
+    padding: 2vh 0;
+    width: 85%;
+    border: solid 1px #0000001a;
+    margin-left: 110px;
+    background-color: #FAFAFA;
+    margin-bottom: 3px;
+    border-radius: 2px;
+    position:relative;
+}
+
+#text-button {
+    display: block;
+    cursor: pointer;
+    width: 50px;
+    text-align: center;
+    border: 1px solid #23232307;
+    font-size:12px;
+    line-height:70px;
+  }
+
+  .good-answer {
+    border-radius:2px;
+    position:absolute;
+    top:0px;
+    right:0px;
+    height:100%;
+  }
